@@ -1,6 +1,0 @@
-framework module LDCSDivinationAdviserSDK {
-  umbrella header "LDCSDivinationAdviserSDK.h"
-
-  export *
-  module * { export * }
-}
