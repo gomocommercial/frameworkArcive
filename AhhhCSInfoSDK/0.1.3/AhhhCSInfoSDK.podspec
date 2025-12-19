@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
   s.description = 'TODO: Add long description of the pod here.'
   s.frameworks = 'Foundation', 'SystemConfiguration', 'CoreTelephony'
   s.libraries = 'resolv'
-  s.source = {:http=>"https://raw.githubusercontent.com/gomocommercial/frameworkArcive/master/Co_in_CSInfoSDK/0.1.3/AhhhCSInfoSDK.zip?8284964d31675ce9671d53ca6d64b762373ac59bfc21a8700c00df5d4956efe4", :sha256=>"8284964d31675ce9671d53ca6d64b762373ac59bfc21a8700c00df5d4956efe4"}
+  s.source = {:http=>"https://raw.githubusercontent.com/gomocommercial/frameworkArcive/master/Co_in_CSInfoSDK/0.1.3/AhhhCSInfoSDK.zip?1d7e9d09a15af597c053af57ee049336b2420d0e400ad804291ad17ab5d80039", :sha256=>"1d7e9d09a15af597c053af57ee049336b2420d0e400ad804291ad17ab5d80039"}
 
   s.platform = :ios, '8.0'
 
